@@ -1,4 +1,4 @@
-package az.edu.turing.lesson3;
+package az.edu.turing.module01.lesson3;
 
 public class Main {
 
